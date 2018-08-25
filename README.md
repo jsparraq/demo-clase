@@ -10,8 +10,9 @@ Este es un demo para la clase para el sábado
 *item 3
 *item 3
 
-**negrita**
+**negrita**s
 
 *italica*
+asdasd
 
 # Este es un gran cambio
